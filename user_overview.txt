@@ -1,0 +1,24 @@
+_______________________
+Total number of users registered: 0
+_______________________
+Total number of tasks generated: 3
+_______________________
+Total number of tasks assigned to admin: 2
+_______________________
+Percentage of tasks assigned to admin: 66%
+_______________________
+Percentage of completed tasks assigned to admin: 0%
+_______________________
+Percentage of incomplete tasks assigned to admin: 50%
+_______________________
+Percentage of overdue tasks assigned to admin: 0%
+_______________________
+Total number of tasks assigned to carl: 1
+_______________________
+Percentage of tasks assigned to carl: 33%
+_______________________
+Percentage of completed tasks assigned to carl: 0%
+_______________________
+Percentage of incomplete tasks assigned to carl: 100%
+_______________________
+Percentage of overdue tasks assigned to carl: 0%

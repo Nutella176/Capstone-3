@@ -1,0 +1,13 @@
+_______________________
+Total number of tasks: 3
+_______________________
+Number of tasks completed: 0
+_______________________
+Number of tasks not yet completed: 3
+_______________________
+Number of tasks overdue: 1
+_______________________
+Percentage of tasks not completed: 100%
+_______________________
+Percentage of overdue tasks: 33%
+_______________________
